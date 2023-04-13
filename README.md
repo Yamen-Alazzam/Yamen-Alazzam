@@ -15,7 +15,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/yamenalazzamm17" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="yamenalazzam17" height="30" width="40" /></a>
+<a href="https://twitter.com/yamenalazzam17" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="yamenalazzam17" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/yamen-alazzam-96ba17219" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="yamen-alazzam-96ba17219" height="30" width="40" /></a>
 <a href="https://instagram.com/yamen.alazzam17" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="yamen.alazzam17" height="30" width="40" /></a>
 <a href="https://discord.gg/#2804" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="#2804" height="30" width="40" /></a>
